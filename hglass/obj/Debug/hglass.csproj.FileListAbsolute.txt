@@ -1,0 +1,15 @@
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.csprojAssemblyReference.cache
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\MainWindow.g.cs
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\App.g.cs
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass_MarkupCompile.cache
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass_MarkupCompile.lref
+C:\CS376\TestGlass\hglass\hglass\bin\Debug\hglass.exe.config
+C:\CS376\TestGlass\hglass\hglass\bin\Debug\hglass.exe
+C:\CS376\TestGlass\hglass\hglass\bin\Debug\hglass.pdb
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\MainWindow.baml
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.g.resources
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.Properties.Resources.resources
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.csproj.GenerateResource.cache
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.csproj.CoreCompileInputs.cache
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.exe
+C:\CS376\TestGlass\hglass\hglass\obj\Debug\hglass.pdb
